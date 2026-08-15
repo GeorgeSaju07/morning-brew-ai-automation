@@ -1,0 +1,43 @@
+SOURCE
+------
+Morning Brew
+
+TOPIC
+-----
+US Retail Sales Drop
+
+KEY_FACTS
+---------
+- US retail sales fell 0.6% last month, marking the first drop in nine months and the largest since May 2025.
+- Sales at nonstore online retailers dropped 2.2% in July following a 7.7% spike in June.
+- Consumer sentiment slid about 8% this month according to University of Michigan survey results.
+- The US unexpectedly lost 23,000 jobs last month while annual inflation hovered around 3.4%.
+
+KEY_ENTITIES
+------------
+- Commerce Department
+- University of Michigan
+- Federal Reserve
+- Kevin Warsh
+
+MAIN_INSIGHT
+------------
+The July retail sales dip isn't just a post-Prime Day hangover; it's a clear signal that high inflation and cooling job growth are finally catching up to consumer wallets.
+
+LINKEDIN_POST
+-------------
+US retail sales fell 0.6% last month, marking the first drop in nine months and the biggest pullback since May 2025. 
+
+We can blame June's compressed e-commerce spending for part of it. When Amazon, Walmart, and Target stacked their deal days early, nonstore retail spiked 7.7% in June before plunging 2.2% in July. 
+
+🔍
+
+Consumers didn't just take a breather—they hit a wall. Factor in an 8% drop in consumer sentiment and the unexpected loss of 23,000 jobs, and the picture gets tougher. 
+
+The Fed has a delicate balance ahead of September. Are shoppers tapping out for good, or was July just an inevitable hangover?
+
+#RetailSales #ConsumerSpending #FederalReserve #Inflation
+
+CONFIDENCE
+----------
+High - all figures and details are drawn directly and accurately from the source text.
