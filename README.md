@@ -314,6 +314,40 @@ This provides an additional layer of protection against:
 
 ---
 
+## 🔐 Security & Credentials
+
+For security reasons, sensitive authentication files are intentionally not included in this repository.
+
+The following files are excluded from GitHub:
+
+credentials.json
+token.json
+.env
+Why are these files excluded?
+credentials.json
+
+Contains OAuth client credentials required for Gmail API authentication.
+
+token.json
+
+Contains OAuth authentication information generated after successful Gmail authorization.
+
+.env
+
+May contain sensitive configuration values such as API keys or environment-specific settings.
+
+These files are intentionally excluded to prevent accidental exposure of authentication credentials, access tokens, and API keys.
+
+You must create/configure these files locally by following the setup instructions in the User Guide.
+
+**⚠️ Never commit API keys, OAuth credentials, access tokens, or other sensitive authentication information to GitHub.**
+
+## 📚 User Guide
+
+This repository includes a dedicated User Guide that explains the project from both technical and non-technical perspectives.
+
+----------
+
 ## 🛠️ Technology Stack
 
 ### Programming
